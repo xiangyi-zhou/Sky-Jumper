@@ -2,18 +2,15 @@
 A mobile game for Android devices utilizing the Unity and C#
 
 ## Screenshots
+  <img src="images/menu.png" style="width: 20%">|<img src="images/game1.png" style="width: 20%" height=260px>|<img src="images/game2.png" style="width: 20%" height=260px>
 
-  <img src="images/menu.jpg" style="width: 20%">|<img src="images/game1.jpg" style="width: 20%">|<img src="images/game2.jpg" style="width: 20%">
-  <img src="images/ending page.jpg" style="width: 20%">|<img src="images/rank.jpg" style="width: 20%">|<img src="images/skin menu.jpg" style="width: 20%">
+  <img src="images/ending page.png" style="width: 20%">|<img src="images/rank.png" style="width: 20%">|<img src="images/skin menu.png" style="width: 20%">
   
 ## Getting Started
-
-1. Download and install Unity on your computer from the https://unity.com/.
-2. Download and import the Vuforia library into your Unity project from the https://developer.vuforia.com/downloads/sdk.
-3. Clone or download the AR campus explorer system repository from Github
-4. Open the project in Unity and ensure that the Vuforia library is properly set up and integrated.
-5. Build the project for Android and deploy it to your device.
-6. Open the AR campus explorer app on your device and point your camera at the predefined targets to start exploring the campus.
+1. Download and install the Unity game engine (https://unity.com/).
+2. Clone or download the project from GitHub.
+3. Open the project in Unity.
+4. Build and run the project on your Android device.
 
 ## Built With
 
