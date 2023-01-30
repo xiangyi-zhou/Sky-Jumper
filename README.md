@@ -2,7 +2,7 @@
 A mobile game for Android devices utilizing the Unity and C#
 
 ## Screenshots
-  <img src="images/menu.png" style="width: 20%">|<img src="images/game1.png" style="width: 20%" height=260px>|<img src="images/game2.png" style="width: 20%" height=260px>
+  <img src="images/menu.png" style="width: 20%" height=260px>|<img src="images/game1.png" style="width: 20%" height=260px>|<img src="images/game2.png" style="width: 20%" height=260px>
 
   <img src="images/ending page.png" style="width: 20%">|<img src="images/rank.png" style="width: 20%">|<img src="images/skin menu.png" style="width: 20%">
   
