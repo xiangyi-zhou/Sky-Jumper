@@ -64,6 +64,7 @@ public class PlatformSpawner : MonoBehaviour
     }
     private void Start()
     {
+    
         RandomPlatformTheme();
         platformSpawnPosition = startSpawnPos;
         for (int i = 0; i < 5; i++)
@@ -75,6 +76,7 @@ public class PlatformSpawner : MonoBehaviour
         //生成人物
         GameObject go = Instantiate(vars.characterPre);
         go.transform.position = new Vector3(0, -1.8f, 0);
+        
     }
     private void Update()
     {
